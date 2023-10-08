@@ -18,7 +18,17 @@ export default {
 		)
 	],
 	theme: {
-		extend: {},
+		extend: {
+            colors: {
+                primary: {
+                    'pale-sage': '#E9EAE5',
+                    'light-grey': '#F5F5F5',
+                    'pearl-white': '#EEEEEE',
+                    'soft-grey': '#D9D9D9',
+                    'light-silver': '#E4E4E4'
+                }
+            }
+        },
 	},
 	plugins: [
 		// 4. Append the Skeleton plugin (after other plugins)
