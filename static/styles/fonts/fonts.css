@@ -1,0 +1,29 @@
+@font-face {
+    font-family: inter-r;
+    src: url("./Inter/static/Inter-Regular.ttf") type("ttf");
+}
+
+@font-face {
+    font-family: inter-m;
+    src: url("./Inter/static/Inter-Medium.ttf") type("ttf");
+}
+
+@font-face {
+    font-family: inter-sb;
+    src: url("./Inter/static/Inter-SemiBold.ttf") type("ttf");
+}
+
+@font-face {
+    font-family: inter-b;
+    src: url("./Inter/static/Inter-Bold.ttf") type("ttf");
+}
+
+@font-face {
+    font-family: inter-xb;
+    src: url("./Inter/static/Inter-ExtraBold.ttf") type("ttf");
+}
+
+@font-face {
+    font-family: merriweather-r;
+    src: url("./Merriweather_Sans/static/MerriweatherSans-Regular.ttf") type("ttf");
+}
